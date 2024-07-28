@@ -1,0 +1,8 @@
+Dictionaries are defined by a key pair of values.
+The values can be called from a dictionary by the key they are assigned to
+e.g 
+players = {
+    1 : 'Ronaldo',
+    2 : 'Messi',
+}
+Dictionaries are case sensitive
